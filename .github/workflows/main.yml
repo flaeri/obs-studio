@@ -6,6 +6,7 @@ on:
     branches:
       - master
       - 'release/**'
+      - 29-dxgiFix
     tags: ['*']
   pull_request:
     paths-ignore: ['**.md']
